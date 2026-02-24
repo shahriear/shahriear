@@ -31,10 +31,3 @@
 
 ---
 
-## 🏆 Achievements
-- 🥇 Completed X Projects  
-- ⭐ Starred Repositories: XX  
-- 📦 Open Source Contributions  
-
----
-
