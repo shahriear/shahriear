@@ -1,4 +1,23 @@
-<h1 align="center">Hi 👋, I'm Shuvo</h1> 
+<p align="center">
+<svg width="400" height="60" viewBox="0 0 400 60">
+
+  <!-- Name with animated 👋 -->
+  <text x="50%" y="40" text-anchor="middle" fill="#1e90ff" font-size="28" font-weight="bold">
+    Hi 
+    <tspan>
+      👋
+      <animateTransform 
+        attributeName="transform"
+        type="rotate"
+        values="0 0; 20 0; -20 0; 0 0" 
+        dur="1s" 
+        repeatCount="indefinite"/>
+    </tspan>
+    , I'm Shuvo
+  </text>
+
+</svg>
+</p>
 <h3 align="center">🚀 Passionate Developer | 💻 Tech Lover | 🌎 Bangladesh</h3>
 
 ---
