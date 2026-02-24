@@ -1,4 +1,35 @@
-<h1 align="center">Hi 👋, I'm Shuvo</h1>
+<p align="center">
+<svg width="500" height="160" viewBox="0 0 500 160">
+
+<!-- Name -->
+<text x="50%" y="45" text-anchor="middle" fill="white" font-size="30" font-weight="bold">
+Hi 👋 I'm Shuvo
+</text>
+
+<!-- Waves -->
+<path d="M0 100 Q50 80 100 100 T200 100 T300 100 T400 100 T500 100 V160 H0 Z" fill="#1e90ff">
+<animate attributeName="d"
+dur="3s"
+repeatCount="indefinite"
+values="
+M0 100 Q50 80 100 100 T200 100 T300 100 T400 100 T500 100 V160 H0 Z;
+M0 100 Q50 120 100 100 T200 100 T300 100 T400 100 T500 100 V160 H0 Z;
+M0 100 Q50 80 100 100 T200 100 T300 100 T400 100 T500 100 V160 H0 Z"/>
+</path>
+
+<!-- Fish -->
+<text x="240" y="105" font-size="30">
+🐟
+<animateTransform attributeName="transform"
+type="translate"
+values="0,0; 0,-25; 0,0"
+dur="1.2s"
+repeatCount="indefinite"/>
+</text>
+
+</svg>
+</p>
+
 <h3 align="center">🚀 Passionate Developer | 💻 Tech Lover | 🌎 Bangladesh</h3>
 
 ---
