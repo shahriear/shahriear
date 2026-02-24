@@ -1,21 +1,4 @@
 <h1 align="center">Hi 👋, I'm Shuvo</h1>
-<p align="center">
-<svg width="300" height="120" viewBox="0 0 300 120">
-  <text x="50%" y="30" text-anchor="middle" fill="white" font-size="22" font-weight="bold">
-    Hi 👋 I'm Shuvo
-  </text>
-
-  <g>
-    <animateTransform attributeName="transform"
-      type="translate"
-      values="0,0; 0,-20; 0,0"
-      dur="1s"
-      repeatCount="indefinite"/>
-      
-    <text x="140" y="90" font-size="40">🐟</text>
-  </g>
-</svg>
-</p>
 <h3 align="center">🚀 Passionate Developer | 💻 Tech Lover | 🌎 Bangladesh</h3>
 
 ---
