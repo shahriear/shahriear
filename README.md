@@ -4,7 +4,10 @@
 ---
 
 ## 🧑‍💻 About Me
-- 🔭 I’m currently working on<br> - 👯 I’m looking to collaborate on<br> - 🤝 I’m looking for help with<br> - 💬 Ask me about
+- 🔭 I’m currently working on
+- 👯 I’m looking to collaborate on
+- 🤝 I’m looking for help with
+- 💬 Ask me about
 
 ---
 
