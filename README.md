@@ -26,7 +26,7 @@
 ## 📊 GitHub Stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=shahriear&show_icons=true&theme=radical" />
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shahriear&theme=radical" />
 </p>
 
 ---
@@ -38,17 +38,3 @@
 
 ---
 
-## 🔥 Featured Projects
-| Project | Description | Link |
-|--------|-------------|------|
-| Project 1 | Short info | [View](#) |
-| Project 2 | Short info | [View](#) |
-
----
-
-## 🧠 Quote I Believe In
-> "Code. Create. Conquer."
-
----
-
-⭐️ From [YOUR NAME](https://github.com/USERNAME)
