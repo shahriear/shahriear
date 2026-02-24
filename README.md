@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shuvo</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Y2Z2x5dGRnY3R0cXJqM3ZqZzR0bXc1a2Z0aDdlY2x6dmx2YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEjI6SIIHBdRxXI40/giphy.gif" width="250"/>
+</p>
 <h3 align="center">🚀 Passionate Developer | 💻 Tech Lover | 🌎 Bangladesh</h3>
 
 ---
