@@ -1,15 +1,10 @@
-<h1 align="center">Hi 👋, I'm YOUR NAME</h1>
-<h3 align="center">🚀 Passionate Developer | 💻 Tech Lover | 🌎 From Your Country</h3>
+<h1 align="center">Hi 👋, I'm Shuvo</h1>
+<h3 align="center">🚀 Passionate Developer | 💻 Tech Lover | 🌎 Bangladesh</h3>
 
 ---
 
 ## 🧑‍💻 About Me
-- 🔭 I’m currently working on **Your Project**
-- 🌱 I’m currently learning **Technology / Skill**
-- 👯 I’m looking to collaborate on **Open Source**
-- 💬 Ask me about **React, JS, Web Dev**
-- 📫 How to reach me: **your@email.com**
-- ⚡ Fun fact: **Something interesting**
+🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>💬 Ask me about
 
 ---
 
