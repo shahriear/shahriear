@@ -3,11 +3,23 @@
 
 ---
 
+<table>
+<tr>
+<td width="60%">
+
 ## 🧑‍💻 About Me
 - 🔭 I’m currently working on
 - 👯 I’m looking to collaborate on
 - 🤝 I’m looking for help with
-- 💬 Ask me about
+- 💬 Ask me about 
+
+</td>
+
+<td width="40%">
+<img src="YOUR_GIF_LINK" width="100%" />
+</td>
+</tr>
+</table>
 
 ---
 
