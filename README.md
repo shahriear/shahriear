@@ -1,31 +1,60 @@
 <p align="center">
-<svg width="500" height="160" viewBox="0 0 500 160">
+<svg width="500" height="200" viewBox="0 0 500 200">
 
-<!-- Name -->
-<text x="50%" y="45" text-anchor="middle" fill="white" font-size="30" font-weight="bold">
-Hi 👋 I'm Shuvo
-</text>
+  <!-- Glowing Name -->
+  <defs>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <text x="50%" y="40" text-anchor="middle" fill="#1e90ff" font-size="32" font-weight="bold" filter="url(#glow)">
+    Hi 👋 I'm Shuvo
+  </text>
 
-<!-- Waves -->
-<path d="M0 100 Q50 80 100 100 T200 100 T300 100 T400 100 T500 100 V160 H0 Z" fill="#1e90ff">
-<animate attributeName="d"
-dur="3s"
-repeatCount="indefinite"
-values="
-M0 100 Q50 80 100 100 T200 100 T300 100 T400 100 T500 100 V160 H0 Z;
-M0 100 Q50 120 100 100 T200 100 T300 100 T400 100 T500 100 V160 H0 Z;
-M0 100 Q50 80 100 100 T200 100 T300 100 T400 100 T500 100 V160 H0 Z"/>
-</path>
+  <!-- Water Reflection Text -->
+  <text x="50%" y="75" text-anchor="middle" fill="#1e90ff" font-size="32" font-weight="bold" opacity="0.3" transform="scale(1,-1) translate(0,-150)">
+    Hi 👋 I'm Shuvo
+  </text>
 
-<!-- Fish -->
-<text x="240" y="105" font-size="30">
-🐟
-<animateTransform attributeName="transform"
-type="translate"
-values="0,0; 0,-25; 0,0"
-dur="1.2s"
-repeatCount="indefinite"/>
-</text>
+  <!-- Waves -->
+  <path d="M0 120 Q50 100 100 120 T200 120 T300 120 T400 120 T500 120 V200 H0 Z" fill="#1e90ff">
+    <animate attributeName="d"
+      dur="4s"
+      repeatCount="indefinite"
+      values="
+        M0 120 Q50 100 100 120 T200 120 T300 120 T400 120 T500 120 V200 H0 Z;
+        M0 120 Q50 140 100 120 T200 120 T300 120 T400 120 T500 120 V200 H0 Z;
+        M0 120 Q50 100 100 120 T200 120 T300 120 T400 120 T500 120 V200 H0 Z"/>
+  </path>
+
+  <!-- Fish -->
+  <text x="100" y="130" font-size="28">🐟
+    <animateTransform attributeName="transform" type="translate" values="0,0; 150,0; 0,0" dur="6s" repeatCount="indefinite"/>
+  </text>
+  <text x="50" y="150" font-size="20">🐠
+    <animateTransform attributeName="transform" type="translate" values="0,0; 200,-20; 0,0" dur="5s" repeatCount="indefinite"/>
+  </text>
+  <text x="300" y="140" font-size="24">🐡
+    <animateTransform attributeName="transform" type="translate" values="0,0; -200,15; 0,0" dur="7s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Bubbles -->
+  <circle cx="120" cy="160" r="5" fill="white" opacity="0.7">
+    <animate attributeName="cy" values="160;50" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.7;0" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="200" cy="170" r="4" fill="white" opacity="0.6">
+    <animate attributeName="cy" values="170;60" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.6;0" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="350" cy="165" r="6" fill="white" opacity="0.5">
+    <animate attributeName="cy" values="165;55" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.5;0" dur="5s" repeatCount="indefinite"/>
+  </circle>
 
 </svg>
 </p>
