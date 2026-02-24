@@ -1,16 +1,60 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>💬 Ask me about
+<h1 align="center">Hi 👋, I'm YOUR NAME</h1>
+<h3 align="center">🚀 Passionate Developer | 💻 Tech Lover | 🌎 From Your Country</h3>
 
+---
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/shahriearshuvooo) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_shuv0o_?igsh=MXM0MnEzZ3piN3R6bQ%3D%3D&utm_source=qr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahriear-shuvo/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shuvovai403@gmail.com) 
+## 🧑‍💻 About Me
+- 🔭 I’m currently working on **Your Project**
+- 🌱 I’m currently learning **Technology / Skill**
+- 👯 I’m looking to collaborate on **Open Source**
+- 💬 Ask me about **React, JS, Web Dev**
+- 📫 How to reach me: **your@email.com**
+- ⚡ Fun fact: **Something interesting**
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Joomla](https://img.shields.io/badge/joomla-%235091CD.svg?style=for-the-badge&logo=joomla&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shahriear&theme=prussian&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shahriear&theme=prussian&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shahriear&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
 
+## 🌐 Connect with me
+<p align="left">
+<a href="https://linkedin.com/in/username" target="blank">LinkedIn</a> •
+<a href="https://twitter.com/username" target="blank">Twitter</a> •
+<a href="https://portfolio.com" target="blank">Portfolio</a>
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## 🛠 Languages & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,git" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=radical" />
+</p>
+
+---
+
+## 🏆 Achievements
+- 🥇 Completed X Projects  
+- ⭐ Starred Repositories: XX  
+- 📦 Open Source Contributions  
+
+---
+
+## 🔥 Featured Projects
+| Project | Description | Link |
+|--------|-------------|------|
+| Project 1 | Short info | [View](#) |
+| Project 2 | Short info | [View](#) |
+
+---
+
+## 🧠 Quote I Believe In
+> "Code. Create. Conquer."
+
+---
+
+⭐️ From [YOUR NAME](https://github.com/USERNAME)
