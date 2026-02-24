@@ -12,11 +12,7 @@
 ---
 
 ## 🌐 Connect with me
-<p align="left">
-<a href="https://linkedin.com/in/username" target="blank">LinkedIn</a> •
-<a href="https://twitter.com/username" target="blank">Twitter</a> •
-<a href="https://portfolio.com" target="blank">Portfolio</a>
-</p>
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/shahriearshuvooo) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_shuv0o_?igsh=MXM0MnEzZ3piN3R6bQ%3D%3D&utm_source=qr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahriear-shuvo/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shuvovai403@gmail.com)
 
 ---
 
