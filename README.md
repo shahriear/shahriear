@@ -1,5 +1,5 @@
 <p align="center">
-<svg width="500" height="200" viewBox="0 0 500 200">
+<svg width="500" height="220" viewBox="0 0 500 220">
 
   <!-- Glowing Name -->
   <defs>
@@ -21,39 +21,43 @@
   </text>
 
   <!-- Waves -->
-  <path d="M0 120 Q50 100 100 120 T200 120 T300 120 T400 120 T500 120 V200 H0 Z" fill="#1e90ff">
+  <path d="M0 120 Q50 100 100 120 T200 120 T300 120 T400 120 T500 120 V220 H0 Z" fill="#1e90ff">
     <animate attributeName="d"
       dur="4s"
       repeatCount="indefinite"
       values="
-        M0 120 Q50 100 100 120 T200 120 T300 120 T400 120 T500 120 V200 H0 Z;
-        M0 120 Q50 140 100 120 T200 120 T300 120 T400 120 T500 120 V200 H0 Z;
-        M0 120 Q50 100 100 120 T200 120 T300 120 T400 120 T500 120 V200 H0 Z"/>
+        M0 120 Q50 100 100 120 T200 120 T300 120 T400 120 T500 120 V220 H0 Z;
+        M0 120 Q50 140 100 120 T200 120 T300 120 T400 120 T500 120 V220 H0 Z;
+        M0 120 Q50 100 100 120 T200 120 T300 120 T400 120 T500 120 V220 H0 Z"/>
   </path>
 
   <!-- Fish -->
-  <text x="100" y="130" font-size="28">🐟
-    <animateTransform attributeName="transform" type="translate" values="0,0; 150,0; 0,0" dur="6s" repeatCount="indefinite"/>
+  <text x="50" y="140" font-size="24">🐟
+    <animateTransform attributeName="transform" type="translate" values="0,0; 400,-20; 0,0" dur="8s" repeatCount="indefinite"/>
   </text>
-  <text x="50" y="150" font-size="20">🐠
-    <animateTransform attributeName="transform" type="translate" values="0,0; 200,-20; 0,0" dur="5s" repeatCount="indefinite"/>
+  <text x="400" y="160" font-size="20">🐠
+    <animateTransform attributeName="transform" type="translate" values="0,0; -350,-25; 0,0" dur="10s" repeatCount="indefinite"/>
   </text>
-  <text x="300" y="140" font-size="24">🐡
-    <animateTransform attributeName="transform" type="translate" values="0,0; -200,15; 0,0" dur="7s" repeatCount="indefinite"/>
+  <text x="200" y="150" font-size="28">🐡
+    <animateTransform attributeName="transform" type="translate" values="0,0; 250,-15; 0,0" dur="7s" repeatCount="indefinite"/>
   </text>
 
-  <!-- Bubbles -->
-  <circle cx="120" cy="160" r="5" fill="white" opacity="0.7">
-    <animate attributeName="cy" values="160;50" dur="3s" repeatCount="indefinite"/>
+  <!-- Random Bubbles -->
+  <circle cx="120" cy="180" r="5" fill="white" opacity="0.7">
+    <animate attributeName="cy" values="180;60" dur="3s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0.7;0" dur="3s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="200" cy="170" r="4" fill="white" opacity="0.6">
-    <animate attributeName="cy" values="170;60" dur="4s" repeatCount="indefinite"/>
+  <circle cx="250" cy="190" r="4" fill="white" opacity="0.6">
+    <animate attributeName="cy" values="190;50" dur="4s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0.6;0" dur="4s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="350" cy="165" r="6" fill="white" opacity="0.5">
-    <animate attributeName="cy" values="165;55" dur="5s" repeatCount="indefinite"/>
+  <circle cx="350" cy="170" r="6" fill="white" opacity="0.5">
+    <animate attributeName="cy" values="170;55" dur="5s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0.5;0" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="180" cy="200" r="3" fill="white" opacity="0.5">
+    <animate attributeName="cy" values="200;60" dur="3.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.5;0" dur="3.5s" repeatCount="indefinite"/>
   </circle>
 
 </svg>
