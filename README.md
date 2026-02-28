@@ -8,10 +8,10 @@
 <td width="60%">
 
 ## 🧑‍💻 About Me
-- 🔭 I’m currently working on
-- 👯 I’m looking to collaborate on
-- 🤝 I’m looking for help with
-- 💬 Ask me about 
+-  I’m currently working on
+-  I’m looking to collaborate on
+-  I’m looking for help with
+-  Ask me about 
 
 </td>
 
