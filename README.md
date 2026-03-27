@@ -5,7 +5,7 @@
 
 <table>
 <tr>
-<td width="70%">
+<td width="60%">
 
 ## 🧑‍💻 About Me
 -  I’m currently working on
@@ -15,7 +15,7 @@
 
 </td>
 
-<td width="30%">
+<td width="40%">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
 </td>
 </tr>
