@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shuvo</h1> 
-<h3 align="center">M E A R N  - Stack Developer | 🌎 Bangladesh</h3>
+<h3 align="center">Frontend Developer | MERN Stack Developer | Bangladesh 🇧🇩 </h3>
 
 ---
 
