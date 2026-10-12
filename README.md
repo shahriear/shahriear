@@ -12,6 +12,7 @@
 -  Interested in React.js, Next.js, and Node.js
 -  Building real-world web development projects
 -  Open to collaboration and freelance opportunities
+-  Reach me: shahriearshuvo@gmail.com
 
 </td>
 
