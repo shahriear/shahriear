@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shuvo</h1> 
 <h3 align="center">Frontend Developer | MERN Stack Developer | Bangladesh 🇧🇩 </h3>
 <p>I'm passionate about building responsive, user-friendly web applications using modern web technologies.</p>
----
+
 
 <table>
 <tr>
