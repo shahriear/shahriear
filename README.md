@@ -9,9 +9,9 @@
 
 ## 🧑‍💻 About Me
 -  I’m currently working on
--  I’m looking to collaborate on
--  I’m looking for help with
--  Ask me about 
+-  Interested in React.js, Next.js, and Node.js
+-  Building real-world web development projects
+-  Open to collaboration and freelance opportunities
 
 </td>
 
